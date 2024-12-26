@@ -1,1 +1,26 @@
-This is a project I worked on over my Semester Abroad to keep up my programming skills
+C++ Satellite Orbital Simulator
+This project simulates the orbital motion of satellites around a central body ( Earth). It was developed during my semester abroad (August - December 2024) as a way to improve my C++ programming skills and explore orbital mechanics.
+
+
+Features:
+Implements core orbital mechanics concepts based on Keplerian physics.
+Reads Two-Line Element Data (TLE) from a public source (https://www.celestrak.org/NORAD/elements/) to simulate real-world satellite positions.
+
+
+My Learning Experience:
+Developing this project allowed me to:
+Deepen my understanding of C++ concepts, even without a formal course.
+Explore the world of orbital mechanics and its underlying physics.
+Leverage real-world data from TLE files to simulate realistic scenarios.
+
+
+Future Development:
+This is an ongoing project with plans to incorporate a user-friendly GUI to enhance its functionality.
+
+
+Collaboration:
+The project source code is open-source and available for forking. Feel free to contribute and build upon this foundation!
+
+Note:
+This project prioritizes functionality over code optimization. However, feedback and suggestions are always welcome!
+
