@@ -1,0 +1,3 @@
+/Users/aidanwalsh/SatelliteOrbitalSimulator/CMakeFiles/SatelliteOrbitalSimulator.dir
+/Users/aidanwalsh/SatelliteOrbitalSimulator/CMakeFiles/edit_cache.dir
+/Users/aidanwalsh/SatelliteOrbitalSimulator/CMakeFiles/rebuild_cache.dir
